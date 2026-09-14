@@ -7,7 +7,7 @@
 Materiais, exercícios e projetos do curso de Ciência da Computação —
 registrados de forma versionada, pública e rastreável.
 
-`Ciência da Computação` · `Brasília – DF` · `1º Módulo`
+`Ciência da Computação – UniCEUB` · `Brasília – DF` · `1º Módulo`
 
 </div>
 
@@ -43,17 +43,20 @@ repositório é a infraestrutura dessa segunda metade.
 
 ## Quem sou eu
 
-**João Leonardi** — estudante de Ciência da Computação em Brasília, pai de três
-filhos, com trajetória profissional em análise de negócios e gestão de produto.
+**João Vitor Leonardi**, 22 anos — estudante de Ciência da Computação no UniCEUB
+e **Analista de Negócios Júnior na Central IT**, atuando em projetos de
+transformação digital no setor público.
 
-Venho de uma carreira em que minha função sempre foi traduzir o problema das
-pessoas em solução. Trabalhando com rotinas de alto volume documental, automatizei
-minhas primeiras tarefas repetitivas e vi o impacto real que algumas linhas de
-lógica bem pensadas têm sobre horas de trabalho humano. Foi ali que decidi migrar
-para a Tecnologia de forma estruturada.
+Meu trabalho é levantamento e análise de requisitos, análise de regras de negócio,
+modelagem de processos em **BPMN com Bizagi**, documentação funcional e validação
+de soluções junto aos stakeholders. Já participei do redesenho e da modelagem do
+**Sistema de Atendimento Eletrônico (SAE)**, hoje em produção. Ver uma solução que
+ajudei a modelar melhorar concretamente o atendimento ao cidadão foi o que
+consolidou minha decisão de dominar também o lado técnico.
 
 Meu objetivo é ser a ponte entre o problema de negócio e a solução técnica —
-com domínio real dos dois lados.
+com domínio real dos dois lados. Hoje meu LinkedIn comprova a metade de negócio;
+este repositório é onde construo a evidência da metade técnica.
 
 > Perfil completo em [`01_Apresentacao_e_Perfil/`](01_Apresentacao_e_Perfil/)
 
@@ -268,7 +271,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 | Canal | Endereço |
 |---|---|
 | E-mail | jooao.leonardi@gmail.com |
-| LinkedIn | _(inserir link)_ |
+| LinkedIn | [/in/jooaoleonardi](https://www.linkedin.com/in/jooaoleonardi) |
 | GitHub | [@jooaoleonardi](https://github.com/jooaoleonardi) |
 
 ### Links do Projeto Integrador — Fase 1

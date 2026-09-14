@@ -22,9 +22,9 @@ documentando problema, abordagem e resultado.
 Automatização de fluxos repetitivos, integração entre sistemas e eliminação de
 trabalho manual.
 
-**Por que me interessa:** é onde minha experiência atual mais se conecta com a
-TI. Gera resultado mensurável e imediato, e me permite aplicar o que aprendo já
-no semestre em que aprendo.
+**Por que me interessa:** quem modela processos em BPMN enxerga rapidamente onde
+existe desperdício. Automatizar esses pontos gera resultado mensurável e imediato,
+e me permite aplicar o que aprendo já no semestre em que aprendo.
 
 **Como este repositório apoia:** cada automação construída vira um caso
 documentado — com o antes, o depois e o tempo economizado.
@@ -33,8 +33,8 @@ documentado — com o antes, o depois e o tempo economizado.
 
 ### 3. Gestão de Produto com domínio técnico
 
-**Por que me interessa:** pretendo evoluir de um PO com boa visão de negócio para
-um PO com domínio técnico real, capaz de discutir arquitetura, viabilidade e
+**Por que me interessa:** pretendo evoluir da análise de negócios para uma atuação
+de produto com domínio técnico real, capaz de discutir arquitetura, viabilidade e
 dívida técnica de igual para igual com o time de engenharia.
 
 **Como este repositório apoia:** as disciplinas técnicas do curso — especialmente
@@ -55,6 +55,7 @@ embasada.
 | Horizonte | Meta | Como medir |
 |---|---|---|
 | **1º Módulo** | Estruturar o Study Hub e manter commits semanais | Histórico do repositório |
+| **Curto prazo** | Consolidar lógica de programação e primeiros scripts em Python | Exercícios versionados |
 | **1º Ano** | Publicar ao menos 2 projetos práticos autorais | Pasta `Projetos_Praticos/` |
 | **Médio prazo** | Consolidar base técnica em desenvolvimento e dados | Certificados + projetos |
 | **Longo prazo** | Atuar em projetos que unam automação, IA aplicada e gestão de produto | Portfólio completo |

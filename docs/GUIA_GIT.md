@@ -8,7 +8,7 @@ Git — é a referência rápida para não travar na hora de commitar.
 ## Configuração inicial (uma vez só)
 
 ```bash
-git config --global user.name "Joao Leonardi"
+git config --global user.name "Joao Vitor Leonardi"
 git config --global user.email "jooao.leonardi@gmail.com"
 ```
 

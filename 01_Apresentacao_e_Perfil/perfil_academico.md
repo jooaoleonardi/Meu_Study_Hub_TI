@@ -4,58 +4,83 @@
 
 | Campo | Dado |
 |---|---|
-| **Nome** | João Leonardi |
-| **Curso** | Ciência da Computação |
-| **Polo / Turma** | Brasília – DF |
-| **Módulo atual** | 1º Módulo |
+| **Nome** | João Vitor Leonardi |
+| **Idade** | 22 anos |
+| **Curso** | Bacharelado em Ciência da Computação |
+| **Instituição** | UniCEUB – Centro Universitário de Brasília |
+| **Local** | Brasília – DF |
+| **Período** | fev/2023 – dez/2026 (previsão) |
+| **Módulo atual** | 1º Módulo do Bootcamp |
 | **E-mail** | jooao.leonardi@gmail.com |
-| **LinkedIn** | _(inserir link)_ |
+| **LinkedIn** | [/in/jooaoleonardi](https://www.linkedin.com/in/jooaoleonardi) |
 | **GitHub** | [@jooaoleonardi](https://github.com/jooaoleonardi) |
 
 ---
 
 ## Trajetória
 
-Moro em Brasília e sou pai de três filhos — o que me ensinou, na prática, o valor
-de organização, disciplina e priorização. Antes de entrar formalmente na área de
-Tecnologia, construí minha carreira atuando como **analista de negócios e Product
-Owner**, traduzindo necessidades de pessoas e empresas em soluções concretas.
+Minha entrada na área de Tecnologia começou pelo lado do negócio. Entrei como
+**trainee na Central IT – Tecnologia em Negócios** em outubro de 2024 e, após
+concluir o programa, assumi o cargo de **Analista de Negócios Júnior**, função em
+que atuo desde novembro de 2025.
 
-Foi nesse papel, entre requisitos, processos e times, que percebi que o que
-realmente me movia não era apenas descrever o problema, mas entender e construir
-a solução.
+Trabalho em projetos de transformação digital no setor público. Minhas atividades
+envolvem levantamento e análise de requisitos, análise de regras de negócio,
+modelagem de processos em BPMN usando Bizagi, elaboração de documentação
+funcional, validação de telas, alinhamento com stakeholders e acompanhamento das
+etapas de desenvolvimento e implantação.
 
-Atuo também com **rotinas jurídicas em contencioso tributário**, ambiente de alto
-volume documental e prazos rígidos. Foi ali que automatizei minhas primeiras
-tarefas repetitivas e vi, com clareza, o impacto que algumas linhas de lógica bem
-pensadas podem ter sobre horas de trabalho humano. Essa experiência virou a
-motivação definitiva para migrar para a Tecnologia de forma estruturada e formal.
+### Projeto de destaque — Sistema de Atendimento Eletrônico (SAE)
+
+Participei do redesenho do fluxo e da modelagem do SAE, sistema usado para
+gerenciar filas e atendimentos presenciais em serviços públicos. Minha atuação
+cobriu o levantamento de requisitos, a análise das regras de negócio, a modelagem
+em BPMN, a elaboração do fluxo de atendimento e o apoio na validação durante o
+desenvolvimento.
+
+O resultado entrou em produção e entregou uma experiência mais clara para o
+cidadão, mais agilidade para os atendentes e indicadores em tempo real para a
+gestão. **Foi esse projeto que consolidou minha decisão de aprofundar a base
+técnica** — eu queria não apenas especificar a solução, mas entender e construir.
 
 ---
 
 ## Motivação
 
-Hoje estudo Ciência da Computação com um objetivo claro: **unir minha vivência de
-negócios à base técnica sólida que o curso oferece.**
-
 Acredito que o profissional mais valioso em TI não é o que apenas escreve código,
-mas o que entende *por que* aquele código precisa existir. É esse perfil de ponte
-— entre o problema do negócio e a solução técnica — que pretendo consolidar ao
-longo da graduação.
+mas o que entende *por que* aquele código precisa existir.
+
+Já tenho a metade de negócio dessa equação: sei conversar com quem tem o problema,
+extrair o requisito real e modelar o processo. O que a graduação me dá é a outra
+metade — a capacidade de avaliar viabilidade técnica, discutir arquitetura e
+construir a solução, e não apenas descrevê-la.
 
 ---
 
-## O que trago da experiência anterior
+## Atuação complementar
 
-| Competência | Como se aplica na TI |
+| Atividade | Organização | Período |
+|---|---|---|
+| Gerente de Projetos – Impacto Social (voluntário) | PMI Distrito Federal | fev/2026 – atual |
+| Vice-Representante de Turma – Ciência da Computação | UniCEUB | jul/2024 – dez/2024 |
+| Projeto de Inclusão Digital (alfabetização digital de idosos) | UniCEUB | fev/2023 – jul/2023 |
+
+No PMI-DF aplico ferramentas como Social Lean Canvas e Impact/Project Model Canvas
+na estruturação de iniciativas de impacto social. No projeto de inclusão digital,
+atuei no planejamento e na condução de aulas sobre navegação na internet,
+segurança digital, combate à desinformação e ferramentas de produtividade.
+
+---
+
+## Idiomas
+
+| Idioma | Nível |
 |---|---|
-| Levantamento de requisitos | Entender o problema real antes de propor solução técnica |
-| Gestão de produto e priorização | Decidir o que construir primeiro e por quê |
-| Alto volume documental sob prazo | Disciplina de organização e rastreabilidade |
-| Comunicação com áreas não técnicas | Traduzir decisão técnica em impacto de negócio |
+| Português | Nativo |
+| Inglês | Avançado |
 
 ---
 
 ## Visual
 
-A foto de perfil profissional fica em [`assets/foto_perfil.png`](assets/).
+Foto de perfil profissional em [`assets/foto_perfil.png`](assets/).
