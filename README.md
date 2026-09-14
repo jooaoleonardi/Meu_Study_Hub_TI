@@ -278,8 +278,8 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 
 | Entregável | Link |
 |---|---|
-| Documento base (Google Docs) | [_(inserir link público)_](https://docs.google.com/document/d/1vXPXqqofkiJiBfFWKWqR7vkLPf_B50NKzpmm2bIu-2w/edit?usp=sharing) |
-| Pitch de apresentação (YouTube) | [_(inserir link)_](https://youtu.be/aTzOih38f58) |
+| Documento base (Google Docs) | [_(Study Hub - Fase 1 - Guia de Arquitetura - Joao Vitor Leonardi )_](https://docs.google.com/document/d/1vXPXqqofkiJiBfFWKWqR7vkLPf_B50NKzpmm2bIu-2w/edit?usp=sharing) |
+| Pitch de apresentação (YouTube) | [_(Vídeo Youtube)_](https://youtu.be/aTzOih38f58) |
 
 ---
 
