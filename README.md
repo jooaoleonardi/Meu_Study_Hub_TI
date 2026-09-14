@@ -278,8 +278,8 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 
 | Entregável | Link |
 |---|---|
-| Documento base (Google Docs) | _(inserir link público)_ |
-| Pitch de apresentação (YouTube) | _(inserir link)_ |
+| Documento base (Google Docs) | [_(inserir link público)_](https://docs.google.com/document/d/1vXPXqqofkiJiBfFWKWqR7vkLPf_B50NKzpmm2bIu-2w/edit?usp=sharing) |
+| Pitch de apresentação (YouTube) | [_(inserir link)_](https://youtu.be/aTzOih38f58) |
 
 ---
 
