@@ -1,20 +1,38 @@
-# Sistema operacional
+# ---------- Sistema operacional ----------
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 Thumbs.db
 desktop.ini
 
-# Editores
+# ---------- Editores e IDEs ----------
 .vscode/
 .idea/
 *.swp
+*.swo
+*~
 
-# Temporarios
+# ---------- Arquivos temporarios ----------
 *.tmp
-~$*
+*.bak
 *.log
+~$*
 
-# Ambientes
+# ---------- Ambientes e dependencias ----------
 .env
+.env.local
 venv/
+.venv/
 __pycache__/
+*.py[cod]
 node_modules/
+dist/
+build/
+
+# ---------- Arquivos pesados que nao devem ser versionados ----------
+*.mp4
+*.mov
+*.zip
+*.iso

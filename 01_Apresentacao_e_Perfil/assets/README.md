@@ -1,5 +1,13 @@
 # assets
 
-Imagens do perfil e recursos visuais do portfolio.
+Recursos visuais do perfil.
 
-Substitua este diretorio pela sua foto profissional em `foto_perfil.png`.
+| Arquivo | Uso |
+|---|---|
+| `foto_perfil.png` | Foto profissional usada no README principal e no perfil |
+
+## Padrão
+
+- Formato preferencial: `.png`
+- Foto de perfil: proporção quadrada, mínimo 400x400px
+- Nomes em minúsculas, sem acento e sem espaço

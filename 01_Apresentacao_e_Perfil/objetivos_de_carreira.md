@@ -1,30 +1,73 @@
 # Objetivos de Carreira
 
-## Areas de interesse
+## Áreas de interesse
 
-### Inteligencia Artificial aplicada
-IA voltada a problemas reais de negocio — leitura e classificacao de documentos,
-apoio a decisao e agentes que executam tarefas de ponta a ponta. Objetivo:
-entender a base tecnica por tras das ferramentas que hoje uso como usuario.
+### 1. Inteligência Artificial aplicada
 
-### Automacao de processos
-Onde minha experiencia atual mais se conecta com a TI. Automatizar fluxos
-repetitivos gera resultado mensuravel e imediato, e permite aplicar o que aprendo
-ja no semestre em que aprendo.
+IA voltada a problemas reais de negócio — leitura e classificação de documentos,
+apoio à decisão e agentes que executam tarefas de ponta a ponta.
 
-### Gestao de Produto (Product Owner)
-Evoluir de um PO com boa visao de negocio para um PO com dominio tecnico real,
-capaz de discutir arquitetura, viabilidade e divida tecnica de igual para igual
-com o time de engenharia.
+**Por que me interessa:** hoje uso essas ferramentas como usuário e quero
+entender a base técnica por trás delas. A diferença entre usar e construir é
+exatamente o que a graduação vai fechar.
 
-### Dados e analise (base de apoio)
-Sem dado estruturado nao ha IA confiavel, nem automacao segura, nem decisao de
-produto embasada.
+**Como este repositório apoia:** projetos práticos de IA vão para
+`03_Projetos_e_Certificados/Projetos_Praticos/`, cada um com README próprio
+documentando problema, abordagem e resultado.
 
-## Metas por fase
+---
 
-| Horizonte | Meta |
-|---|---|
-| 1o Modulo | Estruturar o Study Hub e manter commits semanais. |
-| 1o Ano | Publicar ao menos 2 projetos praticos proprios em `03_Projetos_e_Certificados/`. |
-| Medio prazo | Atuar em projetos que unam automacao, IA aplicada e gestao de produto. |
+### 2. Automação de processos
+
+Automatização de fluxos repetitivos, integração entre sistemas e eliminação de
+trabalho manual.
+
+**Por que me interessa:** é onde minha experiência atual mais se conecta com a
+TI. Gera resultado mensurável e imediato, e me permite aplicar o que aprendo já
+no semestre em que aprendo.
+
+**Como este repositório apoia:** cada automação construída vira um caso
+documentado — com o antes, o depois e o tempo economizado.
+
+---
+
+### 3. Gestão de Produto com domínio técnico
+
+**Por que me interessa:** pretendo evoluir de um PO com boa visão de negócio para
+um PO com domínio técnico real, capaz de discutir arquitetura, viabilidade e
+dívida técnica de igual para igual com o time de engenharia.
+
+**Como este repositório apoia:** as disciplinas técnicas do curso — especialmente
+Sistemas Embarcados e Teste e Qualidade — são o que sustenta essa evolução.
+
+---
+
+### 4. Dados e análise (base de apoio)
+
+**Por que me interessa:** é a fundação das três áreas acima. Sem dado
+estruturado não há IA confiável, nem automação segura, nem decisão de produto
+embasada.
+
+---
+
+## Metas por horizonte
+
+| Horizonte | Meta | Como medir |
+|---|---|---|
+| **1º Módulo** | Estruturar o Study Hub e manter commits semanais | Histórico do repositório |
+| **1º Ano** | Publicar ao menos 2 projetos práticos autorais | Pasta `Projetos_Praticos/` |
+| **Médio prazo** | Consolidar base técnica em desenvolvimento e dados | Certificados + projetos |
+| **Longo prazo** | Atuar em projetos que unam automação, IA aplicada e gestão de produto | Portfólio completo |
+
+---
+
+## Como o Study Hub atrai oportunidades
+
+1. **Evidência sobre promessa.** Em vez de afirmar no currículo que estudo com
+   consistência, envio um link que comprova.
+2. **Histórico visível.** Commits datados mostram frequência e amadurecimento
+   técnico ao longo do tempo, não só o resultado final.
+3. **Organização como sinal.** Um repositório bem estruturado comunica método —
+   competência que vale tanto quanto conhecimento técnico.
+4. **Ferramentas de mercado desde o início.** Chegar ao estágio já fluente em
+   Git, versionamento e documentação.
