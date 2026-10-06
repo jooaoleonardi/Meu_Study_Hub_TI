@@ -23,6 +23,7 @@ aprender. Atualizado ao fim de cada módulo.
 | Git e GitHub | Este repositório |
 | Markdown | Documentação de todas as pastas |
 | Lógica de programação e algoritmos | Graduação e Bootcamp I |
+| Python | Projeto [Força Bruta em Hash SHA-256](../03_Projetos_e_Certificados/Projetos_Praticos/forca_bruta_hash/) |
 | Fundamentos de segurança da informação | Segurança Digital |
 | Estratégias e automação de teste | Teste e Qualidade de Software |
 | Sistemas embarcados e restrição temporal | Sistemas em Tempo Real e Embarcados |
@@ -31,7 +32,7 @@ aprender. Atualizado ao fim de cada módulo.
 
 | Ferramenta | Motivo |
 |---|---|
-| Python | Base para automação e IA aplicada |
+| Python avançado | Base para automação e IA aplicada |
 | SQL | Fundamento de dados e análise |
 | Ferramentas de automação de fluxo | Conexão direta com o que já modelo em BPMN |
 | Frameworks de IA aplicada | Objetivo de carreira principal |
