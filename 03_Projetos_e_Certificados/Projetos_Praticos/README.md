@@ -6,7 +6,7 @@ Projetos autorais desenvolvidos ao longo do curso.
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| _(nenhum projeto publicado ainda)_ | — | — | — |
+| [`portfolio_github_pages/`](portfolio_github_pages/) | Página do portfólio publicada com GitHub Pages | HTML, CSS, JavaScript | Publicado (v1.0) |
 
 > Atualizar esta tabela a cada projeto concluído.
 
