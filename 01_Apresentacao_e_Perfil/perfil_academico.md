@@ -83,4 +83,4 @@ segurança digital, combate à desinformação e ferramentas de produtividade.
 
 ## Visual
 
-Foto de perfil profissional em [`assets/foto_perfil.png`](assets/).
+Foto de perfil profissional: a adicionar em [`assets/`](assets/) como `foto_perfil.png`.

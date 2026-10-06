@@ -107,7 +107,7 @@ Meu_Study_Hub_TI/
 │   ├── objetivos_de_carreira.md       ← áreas de interesse e metas
 │   ├── stack_e_ferramentas.md         ← tecnologias em estudo
 │   └── assets/
-│       └── foto_perfil.png
+│       └── foto_perfil.png        ← a adicionar
 │
 ├── 02_Disciplinas_Atuais/
 │   ├── README.md

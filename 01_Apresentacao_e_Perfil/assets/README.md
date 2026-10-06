@@ -2,9 +2,9 @@
 
 Recursos visuais do perfil.
 
-| Arquivo | Uso |
-|---|---|
-| `foto_perfil.png` | Foto profissional usada no README principal e no perfil |
+| Arquivo | Uso | Status |
+|---|---|---|
+| `foto_perfil.png` | Foto profissional usada no README principal, no perfil e no GitHub Pages | Pendente |
 
 ## Padrão
 
