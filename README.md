@@ -9,6 +9,11 @@ registrados de forma versionada, pública e rastreável.
 
 `Ciência da Computação – UniCEUB` · `Brasília – DF` · `1º Módulo`
 
+**[Ver o portfólio publicado](https://jooaoleonardi.github.io/Meu_Study_Hub_TI/)** ·
+[Projetos](03_Projetos_e_Certificados/Projetos_Praticos/) ·
+[Versões](CHANGELOG.md) ·
+[LinkedIn](https://www.linkedin.com/in/jooaoleonardi)
+
 </div>
 
 ---
@@ -21,6 +26,9 @@ registrados de forma versionada, pública e rastreável.
 - [Estrutura do repositório](#estrutura-do-repositório)
 - [Árvore completa](#árvore-completa)
 - [Disciplinas do módulo atual](#disciplinas-do-módulo-atual)
+- [Projetos práticos](#projetos-práticos)
+- [Portfólio no GitHub Pages](#portfólio-no-github-pages)
+- [Versionamento](#versionamento)
 - [Padrões e convenções](#padrões-e-convenções)
 - [Como navegar](#como-navegar)
 - [Roadmap do projeto](#roadmap-do-projeto)
@@ -89,6 +97,7 @@ demonstrável.**
 | [`04_Arquivo_Semestres_Anteriores/`](04_Arquivo_Semestres_Anteriores/) | Disciplinas já concluídas, arquivadas. | Ao fim de cada semestre |
 | [`_templates/`](_templates/) | Modelos padronizados de resumo, atividade e projeto. | Quando um padrão evolui |
 | [`docs/`](docs/) | Documentação do próprio repositório: padronização, fluxo de trabalho e apoio de Git. | Quando uma convenção muda |
+| `index.html` + [`assets/`](assets/) | Código do portfólio publicado no GitHub Pages. Ficam na raiz porque o Pages publica a partir dela. | A cada nova versão da página |
 
 ---
 
@@ -98,8 +107,15 @@ demonstrável.**
 Meu_Study_Hub_TI/
 │
 ├── README.md                          ← você está aqui
+├── CHANGELOG.md                       ← histórico de versões
 ├── .gitignore
+├── .nojekyll                          ← publica o site sem processamento Jekyll
 ├── LICENSE
+│
+├── index.html                         ← página do GitHub Pages
+├── assets/
+│   ├── css/style.css
+│   └── js/main.js
 │
 ├── 01_Apresentacao_e_Perfil/
 │   ├── README.md
@@ -140,7 +156,13 @@ Meu_Study_Hub_TI/
 ├── 03_Projetos_e_Certificados/
 │   ├── README.md
 │   ├── Projetos_Praticos/
-│   │   └── README.md
+│   │   ├── README.md
+│   │   ├── portfolio_github_pages/
+│   │   │   └── README.md
+│   │   └── forca_bruta_hash/
+│   │       ├── README.md
+│   │       ├── src/breakcode.py
+│   │       └── testes/validar_breakcode.py
 │   └── Certificados/
 │       └── README.md
 │
@@ -178,6 +200,51 @@ Toda disciplina — atual ou futura — segue **o mesmo par fixo de subpastas**:
 
 Essa repetição é proposital. Quando entrar uma disciplina nova no 2º módulo, não
 há nada a decidir — a estrutura já escala sozinha.
+
+---
+
+## Projetos práticos
+
+Cada projeto tem pasta e README próprios, no formato do
+[`modelo_projeto.md`](_templates/modelo_projeto.md): problema, solução, stack, como
+executar, resultados e próximos passos.
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Portfólio Study Hub](03_Projetos_e_Certificados/Projetos_Praticos/portfolio_github_pages/) | A página publicada no GitHub Pages | HTML, CSS, JavaScript |
+| [Força Bruta em Hash SHA-256](03_Projetos_e_Certificados/Projetos_Praticos/forca_bruta_hash/) | Busca paralela da string de 7 letras que gera uma hash conhecida | Python, `multiprocessing` |
+
+---
+
+## Portfólio no GitHub Pages
+
+**Endereço:** [jooaoleonardi.github.io/Meu_Study_Hub_TI](https://jooaoleonardi.github.io/Meu_Study_Hub_TI/)
+
+A página resume o repositório para quem tem poucos minutos: perfil, organização do
+Study Hub, disciplinas, projetos, entregas do Bootcamp I e contato. É HTML, CSS e
+JavaScript puro, sem build, e cada `git push` na `main` republica o site.
+
+Detalhes de arquitetura e de publicação no
+[README do projeto](03_Projetos_e_Certificados/Projetos_Praticos/portfolio_github_pages/).
+
+---
+
+## Versionamento
+
+As versões do repositório são marcadas com **tags Git** e descritas no
+[`CHANGELOG.md`](CHANGELOG.md).
+
+| Versão | Marco |
+|---|---|
+| `v0.1` | Fase 1 — arquitetura inicial do Study Hub |
+| `v1.0` | Primeira versão do portfólio publicada no GitHub Pages |
+| `v1.1` | Projeto Força Bruta adicionado à página |
+
+```bash
+git tag -n            # lista as versões com a descrição
+git checkout v1.0     # volta o repositório para a versão 1.0
+git checkout main     # retorna para a versão atual
+```
 
 ---
 
@@ -250,8 +317,9 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 ### Metas de médio prazo
 
 - [ ] Manter frequência de commits semanal durante todo o semestre
-- [ ] Publicar ao menos 2 projetos práticos autorais em `03_Projetos_e_Certificados/`
-- [ ] Documentar cada projeto com README próprio (problema, solução, stack)
+- [x] Publicar ao menos 2 projetos práticos autorais em `03_Projetos_e_Certificados/`
+- [x] Documentar cada projeto com README próprio (problema, solução, stack)
+- [x] Publicar o portfólio no GitHub Pages com versionamento por tags
 - [ ] Arquivar o 1º módulo em `04_` ao fim do semestre
 
 ---
@@ -263,6 +331,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 | [`docs/PADRONIZACAO.md`](docs/PADRONIZACAO.md) | Todas as regras de nomenclatura, estrutura e commits |
 | [`docs/FLUXO_DE_TRABALHO.md`](docs/FLUXO_DE_TRABALHO.md) | Rotina semanal de atualização do repositório |
 | [`docs/GUIA_GIT.md`](docs/GUIA_GIT.md) | Comandos de Git usados no dia a dia deste repositório |
+| [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões do repositório e da página |
 
 ---
 
@@ -273,6 +342,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 | E-mail | jooao.leonardi@gmail.com |
 | LinkedIn | [/in/jooaoleonardi](https://www.linkedin.com/in/jooaoleonardi) |
 | GitHub | [@jooaoleonardi](https://github.com/jooaoleonardi) |
+| Portfólio | [jooaoleonardi.github.io/Meu_Study_Hub_TI](https://jooaoleonardi.github.io/Meu_Study_Hub_TI/) |
 
 ### Links do Projeto Integrador — Fase 1
 

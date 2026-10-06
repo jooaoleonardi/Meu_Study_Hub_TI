@@ -74,6 +74,21 @@ git restore nome_do_arquivo.md
 git log --oneline --graph --decorate
 ```
 
+### Marcar uma versão com tag
+
+```bash
+# Criar a tag anotada no commit atual
+git tag -a v1.2 -m "v1.2 - descricao curta da versao"
+
+# Enviar os commits e as tags para o GitHub
+git push --follow-tags
+
+# Listar as versões
+git tag -n
+```
+
+> Ao criar uma versão, registre o que mudou no [`CHANGELOG.md`](../CHANGELOG.md).
+
 ### O push foi rejeitado porque há mudanças no GitHub
 
 ```bash
@@ -105,6 +120,7 @@ O GitHub não aceita mais senha de conta no push. As opções são:
 | **repositório** | A pasta do projeto versionada pelo Git |
 | **commit** | Um ponto salvo no histórico, com mensagem descritiva |
 | **branch** | Uma linha de desenvolvimento. Aqui usamos apenas `main` |
+| **tag** | Um nome fixo para um commit, usado para marcar versões (`v1.0`, `v1.1`) |
 | **remote / origin** | O endereço do repositório no GitHub |
 | **push** | Enviar commits locais para o GitHub |
 | **pull** | Trazer commits do GitHub para a máquina local |
