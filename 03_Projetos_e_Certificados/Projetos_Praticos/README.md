@@ -6,7 +6,7 @@ Projetos autorais desenvolvidos ao longo do curso.
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [`portfolio_github_pages/`](portfolio_github_pages/) | Página do portfólio publicada com GitHub Pages | HTML, CSS, JavaScript | Publicado (v1.0) |
+| [`portfolio_github_pages/`](portfolio_github_pages/) | Página do portfólio publicada com GitHub Pages | HTML, CSS, JavaScript | Publicado (v1.1) |
 | [`forca_bruta_hash/`](forca_bruta_hash/) | Busca paralela da string que gera uma hash SHA-256 | Python (multiprocessing) | Concluído |
 
 > Atualizar esta tabela a cada projeto concluído.

@@ -6,6 +6,17 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 versões seguem o [versionamento semântico](https://semver.org/lang/pt-BR/). Cada
 versão corresponde a uma tag Git (`git tag -n` lista todas).
 
+## [1.1] — 2026-10-06
+
+### Adicionado
+
+- Projeto [Força Bruta em Hash SHA-256](03_Projetos_e_Certificados/Projetos_Praticos/forca_bruta_hash/)
+  na seção Projetos da página.
+
+### Alterado
+
+- Rodapé e terminal do topo da página passam a mostrar a versão 1.1.
+
 ## [1.0] — 2026-10-06
 
 Primeira versão do portfólio publicada com GitHub Pages.
@@ -34,5 +45,6 @@ Fase 1: arquitetura inicial do Study Hub.
 - README principal, perfil acadêmico, objetivos de carreira e stack.
 - Padronização de nomes e commits, fluxo de trabalho e guia de Git.
 
+[1.1]: https://github.com/jooaoleonardi/Meu_Study_Hub_TI/releases/tag/v1.1
 [1.0]: https://github.com/jooaoleonardi/Meu_Study_Hub_TI/releases/tag/v1.0
 [0.1]: https://github.com/jooaoleonardi/Meu_Study_Hub_TI/releases/tag/v0.1

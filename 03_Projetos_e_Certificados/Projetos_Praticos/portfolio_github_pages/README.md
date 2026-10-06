@@ -4,7 +4,7 @@
 
 | Campo | Dado |
 |---|---|
-| **Status** | Publicado (v1.0) |
+| **Status** | Publicado (v1.1) |
 | **Período** | out/2026 |
 | **Disciplina de origem** | Bootcamp I — Entrega Intermediária |
 | **Stack** | HTML5, CSS3, JavaScript, Git, GitHub Pages |
@@ -96,6 +96,7 @@ marcadas com tags Git. O histórico detalhado está em [`CHANGELOG.md`](../../..
 | Versão | O que mudou |
 |---|---|
 | `v1.0` | Primeira versão publicada: perfil, Study Hub, disciplinas, projetos, entregas e contato |
+| `v1.1` | Adiciona o projeto Força Bruta em Hash SHA-256 à seção Projetos |
 
 ```bash
 # Ver as versões
