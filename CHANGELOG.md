@@ -6,7 +6,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 versões seguem o [versionamento semântico](https://semver.org/lang/pt-BR/). Cada
 versão corresponde a uma tag Git (`git tag -n` lista todas).
 
-## [Não lançado]
+## [1.3] — 2026-10-17
 
 ### Adicionado
 
@@ -19,7 +19,13 @@ versão corresponde a uma tag Git (`git tag -n` lista todas).
   e rotina de estudo versionada.
 - Página **Versionamento**: histórico de versões, convenção de commits, ciclo de Git, tags e
   checklist antes de cada commit.
+- Página **Entregas**: vídeo de apresentação incorporado, requisitos do desafio com a evidência de cada um,
+  fases do Bootcamp I e critérios de avaliação.
 - Seção "Explore o portfólio" na página inicial, página 404, `sitemap.xml` e `robots.txt`.
+
+### Alterado
+
+- Rodapé e terminal do topo passam a mostrar a versão 1.3.
 
 ## [1.2] — 2026-10-17
 
