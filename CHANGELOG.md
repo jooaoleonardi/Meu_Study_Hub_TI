@@ -6,6 +6,15 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 versões seguem o [versionamento semântico](https://semver.org/lang/pt-BR/). Cada
 versão corresponde a uma tag Git (`git tag -n` lista todas).
 
+## [Não lançado]
+
+### Adicionado
+
+- Site em várias páginas, com menu entre elas e a página atual destacada.
+- Página **Sobre** (trajetória, projeto SAE, motivação, formação e idiomas) e página **Carreira**
+  (áreas de interesse, metas por horizonte, stack e certificações).
+- Seção "Explore o portfólio" na página inicial, página 404, `sitemap.xml` e `robots.txt`.
+
 ## [1.2] — 2026-10-17
 
 ### Adicionado

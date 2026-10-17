@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jooaoleonardi.github.io/Meu_Study_Hub_TI/sitemap.xml
