@@ -15,6 +15,8 @@ versão corresponde a uma tag Git (`git tag -n` lista todas).
   (áreas de interesse, metas por horizonte, stack e certificações).
 - Página **Projetos**: problema, solução, decisões, validação e aprendizados de cada projeto,
   critérios de entrada no portfólio e como adicionar um novo projeto.
+- Página **Disciplinas**: as cinco disciplinas do módulo, estrutura fixa de pastas, padrão de nomes
+  e rotina de estudo versionada.
 - Seção "Explore o portfólio" na página inicial, página 404, `sitemap.xml` e `robots.txt`.
 
 ## [1.2] — 2026-10-17
