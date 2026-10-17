@@ -13,6 +13,8 @@ versão corresponde a uma tag Git (`git tag -n` lista todas).
 - Site em várias páginas, com menu entre elas e a página atual destacada.
 - Página **Sobre** (trajetória, projeto SAE, motivação, formação e idiomas) e página **Carreira**
   (áreas de interesse, metas por horizonte, stack e certificações).
+- Página **Projetos**: problema, solução, decisões, validação e aprendizados de cada projeto,
+  critérios de entrada no portfólio e como adicionar um novo projeto.
 - Seção "Explore o portfólio" na página inicial, página 404, `sitemap.xml` e `robots.txt`.
 
 ## [1.2] — 2026-10-17
