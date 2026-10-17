@@ -30,7 +30,7 @@ Define a base de organização profissional para todo o curso.
 | Entrega | Descrição | Status |
 |---|---|---|
 | Fase 1 | Guia de Arquitetura (Google Docs + pitch em vídeo) | Concluída |
-| Fase 2 | Construção física do repositório | Em andamento |
+| Fase 2 | Construção física do repositório | Concluída |
 | Fase 3 | Publicação do portfólio digital completo | Planejada |
 
 > Atualizar esta tabela a cada entrega concluída.

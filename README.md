@@ -311,7 +311,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 | Fase | Entrega | Status |
 |---|---|---|
 | **Fase 1** | Guia de Arquitetura — planejamento lógico no Google Docs + pitch em vídeo | Concluída |
-| **Fase 2** | Construção física do repositório intermediário | Em andamento |
+| **Fase 2** | Construção física do repositório intermediário | Concluída |
 | **Fase 3** | Publicação do portfólio digital completo | Planejada |
 
 ### Metas de médio prazo
