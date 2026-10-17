@@ -61,6 +61,34 @@
     });
   }
 
+  // ---------- Barra de progresso e botão de voltar ao topo ----------
+  var barra = document.getElementById('progress');
+  var topo = document.getElementById('to-top');
+  function aoRolar() {
+    var max = document.documentElement.scrollHeight - window.innerHeight;
+    var y = window.scrollY || document.documentElement.scrollTop;
+    if (barra) barra.style.transform = 'scaleX(' + (max > 0 ? Math.min(y / max, 1) : 0) + ')';
+    if (topo) topo.hidden = y < 600;
+  }
+  window.addEventListener('scroll', aoRolar, { passive: true });
+  aoRolar();
+
+  // ---------- Entrada suave das seções ----------
+  var semMovimento = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if ('IntersectionObserver' in window && !semMovimento) {
+    var alvos = document.querySelectorAll('.section .container, .card, .timeline li');
+    root.classList.add('js');
+    alvos.forEach(function (el) { el.classList.add('reveal'); });
+    var revelador = new IntersectionObserver(function (entradas) {
+      entradas.forEach(function (entrada) {
+        if (!entrada.isIntersecting) return;
+        entrada.target.classList.add('visible');
+        revelador.unobserve(entrada.target);
+      });
+    }, { threshold: 0.08 });
+    alvos.forEach(function (el) { revelador.observe(el); });
+  }
+
   // ---------- Ano no rodapé ----------
   var ano = document.getElementById('year');
   if (ano) ano.textContent = String(new Date().getFullYear());
