@@ -39,6 +39,14 @@
     });
   }
 
+  // ---------- Página atual no menu ----------
+  if (nav) {
+    var atual = location.pathname.split('/').pop() || 'index.html';
+    nav.querySelectorAll('a').forEach(function (link) {
+      if (link.getAttribute('href') === atual) link.setAttribute('aria-current', 'page');
+    });
+  }
+
   // ---------- Destaque da seção visível no menu ----------
   var links = nav ? nav.querySelectorAll('a[href^="#"]') : [];
   if ('IntersectionObserver' in window && links.length) {
