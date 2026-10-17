@@ -6,6 +6,21 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 versões seguem o [versionamento semântico](https://semver.org/lang/pt-BR/). Cada
 versão corresponde a uma tag Git (`git tag -n` lista todas).
 
+## [1.2] — 2026-10-17
+
+### Adicionado
+
+- Barra de progresso de leitura, botão de voltar ao topo e entrada suave das seções
+  (desativada com `prefers-reduced-motion`).
+- Bloco de competências na seção Sobre e botão "Ver projetos" no topo.
+- Link para as tags de versão na Fase 2 das entregas.
+- Metadados para compartilhamento (Open Graph, Twitter, `theme-color`) e dados estruturados.
+- Estilos de impressão.
+
+### Alterado
+
+- Rodapé e terminal do topo passam a mostrar a versão 1.2.
+
 ## [1.1] — 2026-10-06
 
 ### Adicionado

@@ -577,3 +577,54 @@ h1, h2, h3 { line-height: 1.2; margin: 0; }
   .card-link, .btn { transition: none; }
   .card-link:hover { transform: none; }
 }
+
+/* ---------- Melhorias v1.2 ---------- */
+.progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 100%;
+  z-index: 60;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+.subtitle { font-size: 1.1rem; margin: 32px 0 12px; }
+.chips-lg li { font-size: .88rem; padding: 4px 14px; background: var(--surface); }
+
+.to-top {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 40;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  box-shadow: var(--shadow);
+}
+.to-top[hidden] { display: none; }
+.to-top:hover { text-decoration: none; background: var(--accent-strong); }
+:root[data-theme="dark"] .to-top { color: #0e111a; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .to-top { color: #0e111a; }
+}
+
+/* Entrada suave das seções; sem JavaScript tudo aparece normalmente */
+.js .reveal { opacity: 0; transform: translateY(16px); transition: opacity .5s, transform .5s; }
+.js .reveal.visible { opacity: 1; transform: none; }
+
+@media print {
+  .site-header, .progress, .to-top, .menu-btn { display: none; }
+  .js .reveal { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal { opacity: 1; transform: none; transition: none; }
+}
