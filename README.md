@@ -311,7 +311,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 | Fase | Entrega | Status |
 |---|---|---|
 | **Fase 1** | Guia de Arquitetura — planejamento lógico no Google Docs + pitch em vídeo | Concluída |
-| **Fase 2** | Construção física do repositório intermediário | Em andamento |
+| **Fase 2** | Construção física do repositório intermediário | Concluída |
 | **Fase 3** | Publicação do portfólio digital completo | Planejada |
 
 ### Metas de médio prazo
@@ -350,6 +350,12 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 |---|---|
 | Documento base (Google Docs) | [_(Study Hub - Fase 1 - Guia de Arquitetura - Joao Vitor Leonardi )_](https://docs.google.com/document/d/1vXPXqqofkiJiBfFWKWqR7vkLPf_B50NKzpmm2bIu-2w/edit?usp=sharing) |
 | Pitch de apresentação (YouTube) | [_(Vídeo Youtube)_](https://youtu.be/aTzOih38f58) |
+
+### Links do Projeto Integrador — Fase 2
+
+| Entregável | Link |
+|---|---|
+| Apresentação do repositório (YouTube) | [Vídeo no YouTube](https://youtu.be/aisf7ItJSUU) |
 
 ---
 
