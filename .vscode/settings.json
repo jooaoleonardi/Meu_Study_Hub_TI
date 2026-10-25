@@ -1,0 +1,43 @@
+{
+  // Configuração compartilhada do workspace. Guia: docs/GUIA_VSCODE.md
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.rulers": [100],
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": false,
+
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+    "editor.wordWrap": "on"
+  },
+  "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[css]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[python]": { "editor.tabSize": 4 },
+
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": false,
+  "git.pruneOnFetch": true,
+
+  "liveServer.settings.root": "/",
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "cSpell.language": "pt-BR,en",
+
+  "markdownlint.config": {
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  },
+
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/__pycache__": true
+  }
+}
