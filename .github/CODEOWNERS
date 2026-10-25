@@ -1,0 +1,21 @@
+# Responsáveis pelo código. Cada linha vale para os caminhos indicados.
+# Quando um Pull Request altera esses arquivos, o responsável é pedido como revisor.
+# A última regra que combinar com o arquivo é a que vale.
+
+# Padrão para todo o repositório
+*                               @jooaoleonardi
+
+# Site publicado (GitHub Pages)
+/*.html                         @jooaoleonardi
+/assets/                        @jooaoleonardi
+
+# Segurança, automações e documentação de processo
+/.github/                       @jooaoleonardi
+/SECURITY.md                    @jooaoleonardi
+/CONTRIBUTING.md                @jooaoleonardi
+/docs/                          @jooaoleonardi
+
+# Conteúdo acadêmico
+/01_Apresentacao_e_Perfil/      @jooaoleonardi
+/02_Disciplinas_Atuais/         @jooaoleonardi
+/03_Projetos_e_Certificados/    @jooaoleonardi
