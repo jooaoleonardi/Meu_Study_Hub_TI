@@ -6,6 +6,24 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 versões seguem o [versionamento semântico](https://semver.org/lang/pt-BR/). Cada
 versão corresponde a uma tag Git (`git tag -n` lista todas).
 
+## [2.0] — 2026-10-25
+
+### Adicionado
+
+- Política de segurança (`SECURITY.md`) e guia de contribuição (`CONTRIBUTING.md`).
+- `CODEOWNERS` e template de Pull Request em `.github/`.
+- Proteção da branch `main`, secret scanning, push protection e Dependabot alerts.
+- Plano de Implantação do PortfolioHUB com apoio do Google Gemini (entrega final do Bootcamp I).
+
+### Alterado
+
+- Rodapé e terminal do topo passam a mostrar a versão 2.0.
+- Página **Versionamento** passa a listar as versões 1.3 e 2.0.
+
+### Corrigido
+
+- Tags `v1.2` e `v1.3` criadas conforme o histórico deste changelog.
+
 ## [1.3] — 2026-10-17
 
 ### Adicionado
