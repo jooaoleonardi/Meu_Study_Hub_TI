@@ -8,7 +8,10 @@ Thumbs.db
 desktop.ini
 
 # ---------- Editores e IDEs ----------
-.vscode/
+# VS Code: so a configuracao compartilhada do projeto e versionada
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
 .idea/
 *.swp
 *.swo
