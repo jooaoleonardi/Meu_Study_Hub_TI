@@ -13,7 +13,7 @@ versão corresponde a uma tag Git (`git tag -n` lista todas).
 - Política de segurança (`SECURITY.md`) e guia de contribuição (`CONTRIBUTING.md`).
 - `CODEOWNERS` e template de Pull Request em `.github/`.
 - Proteção da branch `main`, secret scanning, push protection e Dependabot alerts.
-- Plano de Implantação do PortfolioHUB com apoio do Google Gemini (entrega final do Bootcamp I).
+- Plano de Implantação do PortfolioHUB com apoio do assistente de IA Claude (Anthropic), entrega final do Bootcamp I.
 - Configuração compartilhada do VS Code (`.vscode/settings.json` e `extensions.json`) e guia em `docs/GUIA_VSCODE.md`.
 
 ### Alterado
