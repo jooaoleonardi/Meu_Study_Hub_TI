@@ -312,7 +312,7 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 |---|---|---|
 | **Fase 1** | Guia de Arquitetura — planejamento lógico no Google Docs + pitch em vídeo | Concluída |
 | **Fase 2** | Construção física do repositório intermediário | Concluída |
-| **Fase 3** | Publicação do portfólio digital completo | Planejada |
+| **Fase 3** | Implantação do PortfolioHUB: segurança, controle de acesso e colaboração | Concluída |
 
 ### Metas de médio prazo
 
@@ -350,6 +350,15 @@ chore(estrutura): arquiva disciplinas do semestre anterior
 |---|---|
 | Documento base (Google Docs) | [_(Study Hub - Fase 1 - Guia de Arquitetura - Joao Vitor Leonardi )_](https://docs.google.com/document/d/1vXPXqqofkiJiBfFWKWqR7vkLPf_B50NKzpmm2bIu-2w/edit?usp=sharing) |
 | Pitch de apresentação (YouTube) | [_(Vídeo Youtube)_](https://youtu.be/aTzOih38f58) |
+
+### Links da Entrega Final — Fase 3
+
+| Entregável | Link |
+|---|---|
+| Plano de implantação (Google Docs) | [Documento](https://docs.google.com/document/d/113tW4-_QCdHUhL_U91ok2gqox62bpjkaCLc9i9tTHuQ/edit?usp=sharing) |
+| Apresentação (YouTube) | [Vídeo no YouTube](https://youtu.be/dX61aEe3mhk) |
+| Release | [v2.0](https://github.com/jooaoleonardi/Meu_Study_Hub_TI/releases/tag/v2.0) |
+| PDF da entrega | [docs/Entrega_Final_PortfolioHUB.pdf](docs/Entrega_Final_PortfolioHUB.pdf) |
 
 ### Links do Projeto Integrador — Fase 2
 

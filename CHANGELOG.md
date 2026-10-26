@@ -19,6 +19,7 @@ versão corresponde a uma tag Git (`git tag -n` lista todas).
 ### Alterado
 
 - Rodapé e terminal do topo passam a mostrar a versão 2.0.
+- Fase 3 marcada como concluída na página Entregas e no README; PDF da entrega final em `docs/`.
 - Página **Versionamento** passa a listar as versões 1.3 e 2.0.
 
 ### Corrigido
